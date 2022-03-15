@@ -1,1 +1,1 @@
-console.log(hhahahahah);
+console.log("i am linlin");
